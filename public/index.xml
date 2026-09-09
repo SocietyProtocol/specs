@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Society Protocol</title>
+      <link>https://specs.societyprotocol.io</link>
+      <description>Last 10 notes on Society Protocol</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tag Index</title>
+    <link>https://specs.societyprotocol.io/tags/</link>
+    <guid>https://specs.societyprotocol.io/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 09 Sep 2026 23:28:12 GMT</pubDate>
+  </item><item>
+    <title>Society Protocol Handbook</title>
+    <link>https://specs.societyprotocol.io/</link>
+    <guid>https://specs.societyprotocol.io/</guid>
+    <description><![CDATA[ Welcome to the Society Protocol Handbook. ]]></description>
+    <pubDate>Mon, 31 Aug 2026 06:53:33 GMT</pubDate>
+  </item><item>
+    <title>Handbook-Value Functions</title>
+    <link>https://specs.societyprotocol.io/handbook-value-functions</link>
+    <guid>https://specs.societyprotocol.io/handbook-value-functions</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 08 Jan 2026 22:33:00 GMT</pubDate>
+  </item><item>
+    <title>Function-Portal</title>
+    <link>https://specs.societyprotocol.io/function-portal</link>
+    <guid>https://specs.societyprotocol.io/function-portal</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 08 Jan 2026 22:32:00 GMT</pubDate>
+  </item><item>
+    <title>Function-Farming</title>
+    <link>https://specs.societyprotocol.io/function-farming</link>
+    <guid>https://specs.societyprotocol.io/function-farming</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 07 Jan 2026 20:20:00 GMT</pubDate>
+  </item><item>
+    <title>Function-Communication</title>
+    <link>https://specs.societyprotocol.io/function-communication</link>
+    <guid>https://specs.societyprotocol.io/function-communication</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 07 Jan 2026 20:13:00 GMT</pubDate>
+  </item><item>
+    <title>Function-Organizations</title>
+    <link>https://specs.societyprotocol.io/function-organizations</link>
+    <guid>https://specs.societyprotocol.io/function-organizations</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 07 Jan 2026 20:08:00 GMT</pubDate>
+  </item><item>
+    <title>Function-Governance (Futarchy)</title>
+    <link>https://specs.societyprotocol.io/function-governance-(futarchy)</link>
+    <guid>https://specs.societyprotocol.io/function-governance-(futarchy)</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 07 Jan 2026 20:07:00 GMT</pubDate>
+  </item><item>
+    <title>Function-Curation</title>
+    <link>https://specs.societyprotocol.io/function-curation</link>
+    <guid>https://specs.societyprotocol.io/function-curation</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 07 Jan 2026 20:05:00 GMT</pubDate>
+  </item><item>
+    <title>Function-Property</title>
+    <link>https://specs.societyprotocol.io/function-property</link>
+    <guid>https://specs.societyprotocol.io/function-property</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 07 Jan 2026 20:01:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
